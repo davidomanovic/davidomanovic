@@ -5,8 +5,8 @@ I invite you to take a look at my open source projects!
 ## Open Source Projects
 | Project | Description |
 |---------|-------------|
-| [NLP Grammar Checker](https://github.com/yourusername/gopic](https://github.com/davidomanovic/Machine-Learning/tree/main/NLP%20Grammar%20Checker)) | Simple grammar checking tool using LSTM |
-| [SDL MNIST Dataset](https://github.com/yourusername/esh) | Dictionary learning for the MNIST Dataset |
+| [NLP Grammar Checker](https://github.com/davidomanovic/Machine-Learning/tree/main/NLP%20Grammar%20Checker) | Simple grammar checking tool using LSTM |
+| [SDL MNIST Dataset](https://github.com/davidomanovic/Machine-Learning/tree/main/SDL%20MNIST%20Dataset) | Dictionary learning for the MNIST Dataset |
 
 
 <!--
