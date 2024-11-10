@@ -6,9 +6,10 @@ Also take a look at some fun pinned projects in other languages below like **C++
 ## Open Source Projects
 | Project | Description |
 |---------|-------------|
+| [💻 BERT LM](https://github.com/davidomanovic/Machine-Learning/tree/main/BERT) | Simple BERT LM in TensorFlow for answering questions |
 | [💬 NLP Grammar Checker](https://github.com/davidomanovic/Machine-Learning/tree/main/NLP%20Grammar%20Checker) | Simple grammar checking tool using LSTM in PyTorch |
 | [📃 SDL MNIST Dataset](https://github.com/davidomanovic/Machine-Learning/tree/main/SDL%20MNIST%20Dataset) | Dictionary learning for the MNIST Dataset using only NumPy and math|
-| [💻 BERT LM](https://github.com/davidomanovic/Machine-Learning/tree/main/BERT) | Simple BERT LM in TensorFlow |
+
 
 
 <!--
