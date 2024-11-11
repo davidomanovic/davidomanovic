@@ -8,7 +8,7 @@ Also take a look at some fun pinned projects in other languages below like **C++
 |---------|-------------|-------|
 | [🧠 BERT QA LM](https://github.com/davidomanovic/bert-qa-model) | Language Model for Question-Answering | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) |
 | [📖 NLP Grammar Checker](https://github.com/davidomanovic/nlp-lstm-grammar) | NLP using the LSTM model for a Grammar checking tool | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [🔢 SDL MNIST Dataset](https://github.com/davidomanovic/Machine-Learning/tree/main/SDL%20MNIST%20Dataset) | Dictionary learning on MNIST Dataset using NumPy | ![NumPy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)|
+| [🔢 SDL MNIST Dataset](https://github.com/davidomanovic/Machine-Learning/tree/main/SDL%20MNIST%20Dataset) | Dictionary learning on MNIST Dataset using pure mathematics | ![NumPy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)|
 | [🤖 Machine Learning Tools](https://github.com/davidomanovic/Machine-Learning) | General tools for Machine Learning | ![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)|
 
 
