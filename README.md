@@ -4,12 +4,12 @@ I invite you to take a look at my open source projects in **Python** 🐍 <br>
 Also take a look at some fun pinned projects in other languages below like **C++,C & C#** 🌟
 
 ## Open Source Projects
-| Project | Description |
-|---------|-------------|
-| [🧠 BERT LM](https://github.com/davidomanovic/bert-qa-model) | Simple BERT Language Model for Question-Answering using TensorFlow |
-| [📖 NLP Grammar Checker](https://github.com/davidomanovic/nlp-lstm-grammar) | Simple grammar checking tool using LSTM using PyTorch |
-| [🔢 SDL MNIST Dataset](https://github.com/davidomanovic/Machine-Learning/tree/main/SDL%20MNIST%20Dataset) | Dictionary learning for the MNIST Dataset using only NumPy and Linear Algebra|
-| [🤖 Machine Learning Tools](https://github.com/davidomanovic/Machine-Learning) | General tools for Machine Learning using primarily scikit-learn|
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [🧠 BERT QA LM](https://github.com/davidomanovic/bert-qa-model) | Language Model for Question-Answering using TensorFlow | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) |
+| [📖 NLP Grammar Checker](https://github.com/davidomanovic/nlp-lstm-grammar) | Grammar checking tool using LSTM using | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [🔢 SDL MNIST Dataset](https://github.com/davidomanovic/Machine-Learning/tree/main/SDL%20MNIST%20Dataset) | Dictionary learning on MNIST Dataset using NumPy | ![NumPy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)|
+| [🤖 Machine Learning Tools](https://github.com/davidomanovic/Machine-Learning) | General tools for Machine Learning | ![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)|
 
 
 
