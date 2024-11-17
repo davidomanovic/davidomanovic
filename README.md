@@ -1,8 +1,6 @@
 ## Hello World!👋 
-I am David from NTNU😄 4th year M.Sc. Applied Physics student interested in Machine Learning in the Natural Sciences ⚛️ <br>
-I invite you to take a look at my open source projects in **Python** 🐍 <br>
-Also take a look at some fun pinned projects in other languages below like **C++,C & C#** 🌟
-
+I am David from NTNU😄 4th year M.Sc. Applied Physics student interested in Machine Learning and Applied Physics ⚛️🤖 <br>
+I invite you to take a look at some of my favorite **open-source** projects below. Feel free to collaborate or learn⚡🐍 <br>
 ## Open Source Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
