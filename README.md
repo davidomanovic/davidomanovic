@@ -2,7 +2,7 @@
 I am David from NTNU😄 4th year M.Sc. Applied Physics student interested in Machine Learning and Applied Physics ⚛️🤖 <br>
 I invite you to take a look at some of my favorite **open-source** projects below. Feel free to collaborate or learn⚡🐍 <br>
 ## Open Source Projects
-| Project | Description | Tools |
+| Project | Description | Language & Tools |
 |---------|-------------|-------|
 | [⚛️ Particle Simulator](https://github.com/davidomanovic/particle-simulator) | Simulate and animate particle motion in C using OpenGL | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) |
 | [🧠 BERT QA LM](https://github.com/davidomanovic/bert-qa-model) | Small Language Model for Question-Answering | ![PY](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
