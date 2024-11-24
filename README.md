@@ -5,7 +5,7 @@ I invite you to take a look at some of my favorite **open-source** projects belo
 | Project | Description | Language & Tools |
 |---------|-------------|-------|
 | [⚛️ Particle Simulator](https://github.com/davidomanovic/particle-simulator) | Simulate and animate particle motion in C using OpenGL | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) |
-| [✉️Spam Detector](https://github.com/davidomanovic/spam-detector) | Generative learning with Naïve Bayes Algorithm to detect spam emails | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)|
+| [✉️Spam Detector](https://github.com/davidomanovic/spam-detector) | Generative learning (Gen AI) to detect spam emails | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)|
 | [🧠 BERT QA LM](https://github.com/davidomanovic/bert-qa-model) | Small Language Model for Question-Answering | ![PY](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 [🌊 CFD Flow Solver](https://github.com/davidomanovic/CFD-FlowSolver) | Fluid flow with Finite Element Method | ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) |
 | [📖 NLP Grammar Checker](https://github.com/davidomanovic/nlp-lstm-grammar) | NLP using the LSTM model to proof read grammar | ![PY](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
