@@ -9,6 +9,7 @@ I invite you to take a look at some of my favorite **open-source** projects belo
 | [📊 MCMC Solid State](https://github.com/davidomanovic/mcmc-solid-state) | Markov Chain Monte Carlo Simulations for Solid State Systems |![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) ![PY](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [✉️ Gen AI - Anti Spam](https://github.com/davidomanovic/spam-detector) | Generative learning (Gen AI) to detect spam emails | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)|
 | [📖 NLP Grammar Checker](https://github.com/davidomanovic/nlp-lstm-grammar) | NLP using the LSTM model to proof read grammar | ![PY](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [📖 Web application for simulations](https://github.com/davidomanovic/simulations-website) | Web application to showcase my simulation projects | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white) ![JS](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) ![PY](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 
 
