@@ -1,5 +1,5 @@
 ## Hello World!👋 
-I am David from NTNU😄 4th year M.Sc. Applied Physics student interested in condensed matter theory and quantum technology ⚛️🤖 <br>
+I am David from NTNU😄 4th year M.Sc. Applied Physics student interested in computational physics and quantum technology ⚛️🤖 <br>
 I invite you to take a look at some of my favorite **open-source** projects below. Feel free to collaborate or learn⚡🐍 <br>
 ## Open Source Projects
 | Project | Description | Language & Tools |
