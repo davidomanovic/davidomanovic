@@ -6,7 +6,7 @@ I speak:
 - C++
 - Rust
 
-I am a contributor at the current open source library:
+I am a contributor at the open source library:
 - **IBM Qiskit Community:** [ffsim](https://github.com/qiskit-community/ffsim)
 
 Have a look at some of my open source projects, and feel free to contribute :) 
