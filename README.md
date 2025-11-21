@@ -1,12 +1,12 @@
 ## Hello World!👋 
-I am David, a 5th year M.Sc. Applied Physics student with experience in Software Engineering and DevOps🤖 <br> I currently work with quantum computing and simulations.
+I am David, a 5th year M.Sc. Applied Physics student at NTNU, Norway with experience in Software Engineering and DevOps🤖 <br> I currently work with quantum computing and simulations.
 
 I speak:
 - Python
 - C++
 - Rust
 
-I am a contributor at the open source library:
+I am a contributor at: 
 - **IBM Qiskit Community:** [ffsim](https://github.com/qiskit-community/ffsim)
 
 Have a look at some of my open source projects, and feel free to contribute :) 
